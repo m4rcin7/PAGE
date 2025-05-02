@@ -28,7 +28,7 @@ Modern website with react-router-dom, dark mode, and fresh design.
 You can clone this project :
 
 ```bash
-    git clone https://github.com/markopersonally/PAGE.git
+    git clone https://github.com/m4rcin7/PAGE.git
     npm install lucide-react framer-motion react-router-dom
 ```
     
